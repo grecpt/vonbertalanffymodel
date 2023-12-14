@@ -1,6 +1,6 @@
 # Project Title
 
-[Project description and purpose in a sentence or two]
+[The von Bertalanffy growth function]
 
 ## Table of Contents
 - [Features](#features)
