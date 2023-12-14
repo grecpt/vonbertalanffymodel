@@ -12,7 +12,7 @@ The von Bertalanffy growth function
 - Scrollable controls for the growth function
 - Buttion to upload a csv file with age(x) column and growth(y) column
 - Button to save the graph
-- Graph displaying the 
+- Graph displaying the function 
 
 ## Usage
 1. Download R and R-Studio Integrate Development Environment
