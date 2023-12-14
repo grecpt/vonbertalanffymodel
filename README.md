@@ -22,7 +22,7 @@ The von Bertalanffy growth function
 5. Execute the 'serve.R' file
 6. After downloading the related dependencies it will run
 
-## [Contributing](#contributing)
+## Contributing
 
 [Explain how others can contribute to your project. Include guidelines for submitting issues or pull requests.]
 
