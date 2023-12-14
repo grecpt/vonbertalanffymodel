@@ -1,6 +1,6 @@
 # Project Title
 
-[The von Bertalanffy growth function]
+The von Bertalanffy growth function
 
 ## Table of Contents
 - [Features](#features)
