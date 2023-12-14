@@ -1,6 +1,6 @@
 #ui.R
 shinyUI(pageWithSidebar(
-  headerPanel("Tuna Growth Model"),
+  headerPanel("Von Bertalanffy Growth Function"),
   
   sidebarPanel(
     fileInput('datafile', 'Choose data file',
