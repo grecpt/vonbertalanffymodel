@@ -9,15 +9,18 @@ The von Bertalanffy growth function
 - [License](#license)
 
 ## Features
-
-[List the key features of your project]
+- Scrollable controls for the growth function
+- Buttion to upload a csv file with age(x) column and growth(y) column
+- Button to save the graph
+- Graph displaying the 
 
 ## Usage
-[Provide examples and instructions on how to use your project. Include code snippets or command-line examples.]
-
-
-# Example installation command or steps
-npm install
+1. Download R and R-Studio Integrate Development Environment
+2. Clone the repository in your local environment
+3. Open R-Studio
+4. Import Project
+5. Execute the 'serve.R' file
+6. After downloading the related dependencies it will run
 
 ## [Contributing](#contributing)
 
