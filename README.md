@@ -15,7 +15,7 @@ The von Bertalanffy growth function
 ## Usage
 [Provide examples and instructions on how to use your project. Include code snippets or command-line examples.]
 
-```R
+
 # Example installation command or steps
 npm install
 
