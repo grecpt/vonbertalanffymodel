@@ -1,4 +1,4 @@
-#The Von Bertalanffy Growth Function
+# The Von Bertalanffy Growth Function
 
 
 ## Table of Contents
